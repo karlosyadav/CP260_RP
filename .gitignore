@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.DS_Store
+
+# Local dataset and downloaded weights
+Data/
+Data.zip
+mobile_sam.pt
+*.ckpt
+
+# Run-time artefacts
+outputs/viz/*
+outputs/renders/*
+outputs/masks/*
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+*.nbconvert.ipynb
