@@ -1,4 +1,4 @@
-# Desktop Scene Reconstruction with Plane-Sweep Depth and Open-Vocabulary Segmentation
+# Scene Reconstruction with Plane-Sweep Depth and Open-Vocabulary Segmentation
 
 End-to-end pipeline that takes 16 posed RGB photographs of a desktop computer and produces:
 
