@@ -7,7 +7,7 @@ End-to-end pipeline that takes 16 posed RGB photographs of a desktop computer an
 3. **Oriented 3D bounding boxes** for those connectors (RANSAC plane fit + in-plane PCA + protrusion prior).
 4. **Novel-view RGB images** at user-specified poses (depth-aware forward warping + soft view-blending).
 
-This is the deliverable for the CP260 “Robot Perception” final project.
+This is the deliverable for the CP260 “Robot Perception” final project..
 
 ---
 
